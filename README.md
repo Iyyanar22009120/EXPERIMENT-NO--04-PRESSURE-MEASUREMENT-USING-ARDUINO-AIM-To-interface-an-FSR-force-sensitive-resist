@@ -77,8 +77,8 @@ The easiest way to measure a resistive sensor is to connect one end to power and
 
 ### PROGRAM
 ```
- *your roll no -212222240036
- * your name -S.IYYANAR
+ * roll no -212222240036
+ *  name -S.IYYANAR
  * department and year -Artificial intelligence and Machine learning
  ```
  ```
